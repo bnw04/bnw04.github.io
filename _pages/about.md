@@ -13,7 +13,7 @@ redirect_from:
 👨🏻‍💻 My name is Beini and I'm currently pursing my master degree in Computer Science at Northeastern University.
 👀 With experience as a Software Engineer, I specialize in developing scalable, efficient cloud-based solutions using technologies such as Python, Flask, React, Node.js, Docker, Kubernetes, and AWS.
 📚 Currently, I am focusing on building a nutrition label Document Understanding Transformer using **GenAI** and **MLOps**, leveraging the **MERN Stack** and **AWS**.
- I'm passionate about solid engineering and crafting dependable, impactful solutions. 
+😊 I'm passionate about solid engineering and crafting dependable, impactful solutions. 
 📫 Feel free to reach out: [LinkedIn](https://www.linkedin.com/in/beini-wang/) | [Email](mailto:wang.beini@northeastern.edu)
 
 👨🏻‍🔬 Professional Experience
