@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=DotGothic16&pause=1000&color=000000&width=435&lines=Full+Stack+Developer;Cloud+Engineer" alt="Typing SVG" /></a>
 
 👨🏻‍💻 My name is Beini and I'm currently pursing my master degree in Computer Science at Northeastern University.
 
